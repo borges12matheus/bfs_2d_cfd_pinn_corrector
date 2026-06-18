@@ -1,0 +1,25 @@
+type            sets;
+libs            ("libsampling.so");
+
+interpolationScheme cellPoint;
+
+setFormat       raw;
+
+fields
+(
+    U
+    p
+    k
+    epsilon
+    nut
+);
+
+sets
+(
+    grid_pinn
+    {
+        type    cloud;
+        axis    xyz;
+        points  #include "../gridPoints_driver_seegmiller.xyz";
+    }
+);

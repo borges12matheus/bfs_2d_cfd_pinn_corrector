@@ -1,0 +1,27 @@
+{
+  "split": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "n_total": 100975,
+  "n_train": 70682,
+  "n_val": 15146,
+  "n_test": 15147,
+  "mae_base_test": 6.038899066417658,
+  "mae_corr_test": 1.7432248272334396,
+  "mae_p_base_test": 283.2155627552651,
+  "mae_p_corr_test": 44.16803956863926,
+  "rmse_uv_base_test": 9.70737440056265,
+  "rmse_uv_corr_test": 3.3188824962493317,
+  "rmse_p_base_test": 344.08096120415587,
+  "rmse_p_corr_test": 81.23805998400788,
+  "rer_uv_test": 0.6581070885597071,
+  "rer_p_test": 0.7638984159434314,
+  "improve_uv_mae_pct_test": 71.13340017673883,
+  "improve_uv_rmse_pct_test": 65.81070885597072,
+  "best_val_loss_scaled": 0.15565113723278046,
+  "device": "cuda",
+  "l2_relative_uv_test": 0.07382381929313989,
+  "l2_relative_p_test": 0.2044738943632414
+}
