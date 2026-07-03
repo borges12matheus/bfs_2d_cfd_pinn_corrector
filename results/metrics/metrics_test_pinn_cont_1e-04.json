@@ -1,0 +1,17 @@
+{
+  "mae_vec_coarse_to_fine": 6.095134735107422,
+  "mae_vec_corrected_to_fine": 1.0811747312545776,
+  "mae_vec_deltas_pred_vs_true": 1.0811747312545776,
+  "mae_vec_pressure_coarse_to_fine": 282.8056945800781,
+  "mae_vec_pressure_corrected_to_fine": 25.8520450592041,
+  "mae_vec_pressure_deltas_pred_vs_true": 25.8520450592041,
+  "l2_rel_uv_coarse": 0.21854230761528015,
+  "l2_rel_uv_corrected": 0.0437193438410759,
+  "l2_rel_p_coarse": 0.8674168586730957,
+  "l2_rel_p_corrected": 0.0999004989862442,
+  "RER (u,v)": 0.8226167626735251,
+  "RER (p)": 0.9085872542361983,
+  "melhora_MAE_pct": 82.26167626735251,
+  "melhora_MAE_pct_pressure": 90.85872542361983,
+  "N": 20195
+}

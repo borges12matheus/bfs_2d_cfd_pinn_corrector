@@ -1,0 +1,21 @@
+{
+  "mae_uv_coarse_to_fine": 6.021580696105957,
+  "mae_uv_corrected_to_fine": 1.0626839399337769,
+  "mae_uv_deltas_pred_vs_true": 1.0626838207244873,
+  "mae_p_pressure_coarse_to_fine": 284.13525390625,
+  "mae_p_corrected_to_fine": 26.515880584716797,
+  "mae_p_deltas_pred_vs_true": 26.515880584716797,
+  "rmse_uv_coarse_to_fine": 9.71419620513916,
+  "rmse_uv_corrected_to_fine": 1.9198918342590332,
+  "rmse_p_coarse_to_fine": 345.0668640136719,
+  "rmse_p_corrected_to_fine": 39.792564392089844,
+  "l2_rel_uv_coarse": 0.21607980132102966,
+  "l2_rel_uv_corrected": 0.04270552843809128,
+  "l2_rel_p_coarse": 0.8669746518135071,
+  "l2_rel_p_corrected": 0.09997812658548355,
+  "RER (u,v)": 0.8235207674588139,
+  "RER (p)": 0.906678667218586,
+  "melhora_MAE_pct": 82.35207674588139,
+  "melhora_MAE_pct_pressure": 90.6678667218586,
+  "N": 100975
+}
